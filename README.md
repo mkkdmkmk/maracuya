@@ -1,4 +1,4 @@
-# Maracuya — AI Chat UI/UX
+# Maracuya — AI Chat 
 
 A complete UI/UX exploration for an AI chat product focused on conversations, files, and AI-powered workflows.
 
@@ -10,15 +10,7 @@ The goal was to create a scalable experience for users who need to communicate w
 
 ## My Role
 
-Product Designer
-
-- UX Research
-- Information Architecture
-- User Flows
-- UI Design
-- Interaction Design
-- Design System
-- Prototyping
+AI Product Builder | Design Engineer | AI-Assisted Developer
 
 ## Key Features
 
